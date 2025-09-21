@@ -6,4 +6,4 @@
 
 **Infra:** AWS, Azure, Kubernetes, Docker, Nginx
 
-**Learning:** TensorFlow, LangChain
+**Learning:** GenAI, TensorFlow, LangChain
