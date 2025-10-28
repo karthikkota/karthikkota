@@ -4,8 +4,8 @@
 
 **Languages:** Java, C#, Python, Go, NodeJS
 
-**Tools:** TensorFlow
+**Tools:** TensorFlow, LangChain
 
 **Infra:** AWS, Azure, Kubernetes, Docker, Nginx
 
-**Learning:** GenAI, LangChain
+**Learning:** GenAI, RAG
